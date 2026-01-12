@@ -1,8 +1,8 @@
 
       <svg
-        width="300"
+        width="500"
         height="135"
-        viewBox="0 0 300 135"
+        viewBox="0 0 500 135"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -13,7 +13,7 @@
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #2f80ed;
+            fill: #9ccfd8;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -38,7 +38,7 @@
       }
     }
     .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #434d58;
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #e0def4;
     }
     @supports(-moz-appearance: auto) {
       /* Selector detects Firefox */
@@ -47,7 +47,7 @@
     .bold { font-weight: 700 }
     .lang-name {
       font: 400 11px "Segoe UI", Ubuntu, Sans-Serif;
-      fill: #434d58;
+      fill: #e0def4;
     }
     .stagger {
       opacity: 0;
@@ -92,8 +92,8 @@
           rx="4.5"
           height="99%"
           stroke="#e4e2e2"
-          width="299"
-          fill="#fffefe"
+          width="499"
+          fill="#191724"
           stroke-opacity="1"
         />
 
@@ -108,7 +108,7 @@
       
   
       <mask id="rect-mask">
-          <rect x="0" y="0" width="250" height="8" fill="white" rx="5"/>
+          <rect x="0" y="0" width="450" height="8" fill="white" rx="5"/>
         </mask>
         
         <rect
@@ -116,7 +116,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="188.1"
+          width="338.58"
           height="8"
           fill="#c22d40"
         />
@@ -124,9 +124,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="188.1"
+          x="338.58"
           y="0"
-          width="25.6"
+          width="46.08"
           height="8"
           fill="#89e051"
         />
@@ -134,9 +134,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="213.7"
+          x="384.65999999999997"
           y="0"
-          width="14.88"
+          width="26.79"
           height="8"
           fill="#e34c26"
         />
@@ -144,9 +144,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="228.57999999999998"
+          x="411.45"
           y="0"
-          width="10.08"
+          width="18.14"
           height="8"
           fill="#244776"
         />
@@ -154,9 +154,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="238.66"
+          x="429.59"
           y="0"
-          width="16.94"
+          width="12.49"
           height="8"
           fill="#f1e05a"
         />
@@ -164,9 +164,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="245.6"
+          x="442.08"
           y="0"
-          width="14.4"
+          width="17.92"
           height="8"
           fill="#199f4b"
         />
