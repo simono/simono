@@ -9,8 +9,9 @@ I'm a Software Developer from Cologne, Germany, with nearly 20 years in the indu
 - 🏊‍♂️ Into swimming, running, and cycling
 
 ## 📊 GitHub Stats
-![Simon's GitHub Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
+<img src="./profile/stats.svg" width="500" alt="Simon's GitHub Stats">
+<br>
+<img src="./profile/top-langs.svg" width="500" alt="Top Languages">
 
 ## 🔗 Find me online
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/solofs/)
