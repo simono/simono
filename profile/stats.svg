@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Simon Olofsson's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Commits  (last year) : 340, Total PRs: 152, Total Issues: 19, Contributed to (last year): 24</desc>
+        <desc id="descId">Total Commits  (last year) : 321, Total PRs: 152, Total Issues: 19, Contributed to (last year): 22</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 96.8300725219342;
+        stroke-dashoffset: 97.71277881792464;
       }
     }
   
@@ -148,7 +148,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >340</text>
+      >321</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -193,7 +193,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >24</text>
+      >22</text>
     </g>
   </g>
     </svg>
