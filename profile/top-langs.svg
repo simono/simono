@@ -116,7 +116,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="210.65"
+          width="210.61"
           height="8"
           fill="#e34c26"
         />
@@ -124,9 +124,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="210.65"
+          x="210.61"
           y="0"
-          width="198.86"
+          width="198.83"
           height="8"
           fill="#c22d40"
         />
@@ -134,9 +134,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="409.51"
+          x="409.44000000000005"
           y="0"
-          width="17.85"
+          width="17.92"
           height="8"
           fill="#89e051"
         />
@@ -144,7 +144,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="427.36"
+          x="427.36000000000007"
           y="0"
           width="10.65"
           height="8"
@@ -154,7 +154,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="438.01"
+          x="438.01000000000005"
           y="0"
           width="17.33"
           height="8"
@@ -164,7 +164,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="445.34"
+          x="445.34000000000003"
           y="0"
           width="14.65"
           height="8"
@@ -177,7 +177,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML 46.81%
+        HTML 46.80%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
@@ -191,7 +191,7 @@
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#89e051" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Shell 3.97%
+        Shell 3.98%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
