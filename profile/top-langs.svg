@@ -126,7 +126,7 @@
           data-testid="lang-progress"
           x="210.71"
           y="0"
-          width="198.93"
+          width="198.92"
           height="8"
           fill="#c22d40"
         />
@@ -134,9 +134,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="409.64"
+          x="409.63"
           y="0"
-          width="17.72"
+          width="17.73"
           height="8"
           fill="#89e051"
         />
@@ -184,7 +184,7 @@
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#c22d40" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Scala 44.21%
+        Scala 44.20%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
